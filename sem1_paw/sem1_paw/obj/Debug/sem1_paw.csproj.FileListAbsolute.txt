@@ -1,0 +1,12 @@
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe.config
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\bin\Debug\sem1_paw.pdb
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\obj\Debug\sem1_paw.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\obj\Debug\sem1_paw.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\sem1_paw\sem1_paw\obj\Debug\sem1_paw.pdb
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe.config
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\obj\Debug\sem1_paw.exe
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\obj\Debug\sem1_paw.pdb
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\bin\Debug\sem1_paw.exe
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\bin\Debug\sem1_paw.pdb
+C:\Users\Cristian\source\repos\csie\sem1_paw\sem1_paw\obj\Debug\sem1_paw.csprojResolveAssemblyReference.cache
